@@ -20,3 +20,8 @@ footer {
     background-color: rgb(80, 255, 121);
     height: 10vh;
 }
+
+article {
+    border: 1px solid rebeccapurple;
+    background-color: brown;
+}
